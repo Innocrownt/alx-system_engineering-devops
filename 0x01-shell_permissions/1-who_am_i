@@ -1,2 +1,2 @@
-/tmp/h$ whoami
-betty
+#!/bin/bash 
+whoami /tmp/h$
